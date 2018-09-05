@@ -32,21 +32,21 @@ var IodineGUI = {
         keyZonesGBA:[
             //Use this to control the GBA key mapping:
             //A:
-            88,
+            106,
             //B:
-            90,
+            107,
             //Select:
             16,
             //Start:
             13,
             //Right:
-            39,
+            108,
             //Left:
-            37,
+            59,
             //Up:
-            38,
+            119,
             //Down:
-            40,
+            115,
             //R:
             83,
             //L:
